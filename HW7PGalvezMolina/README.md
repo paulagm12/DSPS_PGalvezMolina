@@ -7,4 +7,4 @@ Besided clustering the data, we first pre-processed it which corresponded to nor
 
 The hardest part was understanding that normalization had to be done over the tissue's samples and not the genes. For this reason, and because the equation in the notebook did not specify that it was supposed to be the squared magnitude of the variance, I also struggled with setting up my intracluster variance function.
 
-I gained experience usingg TSNE and UMAP projections (espcially in a 2D space) and applying the three clustering techniques (KMEANS, BDSCAN and Agglomerative). Addtionally I gained more experience in interpreting dendograms.
+I gained experience using TSNE and UMAP projections (espcially in a 2D space) and applying the three clustering techniques (KMEANS, BDSCAN and Agglomerative). Addtionally I gained more experience in interpreting dendograms.
