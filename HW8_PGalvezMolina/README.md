@@ -1,5 +1,8 @@
 My old plot was:
+
 ![image](https://github.com/paulagm12/DSPS_PGalvezMolina/assets/108830435/86800f11-cf01-4c5a-8d3d-1280f56ed2d7)
+
+
 My new plot is:
 ![image](https://github.com/paulagm12/DSPS_PGalvezMolina/assets/108830435/70ec6cdb-e0b1-41ad-bae7-7dab3de46bd3)
 
