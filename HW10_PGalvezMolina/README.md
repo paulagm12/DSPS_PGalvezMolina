@@ -4,4 +4,4 @@ The homework had as a main goal to use set up Physically Informed Neural Network
 
 The hardest part was understanding some of the code that was not commented.
 
-I gained more understanding on the effect that the loss function, learning rate, and number of epochs have on the performance of a model. I also understood what TA Willow and Prof. Bianco meant by the allocated Colab resourcesof the GPU time ***smiles in pain*** (it got fixed at the end but it was disturbing not getting the same results nor being able to run the code properly).
+I gained more understanding on the effect that the loss function, learning rate, and number of epochs have on the performance of a model. I also understood what TA Willow and Prof. Bianco meant by the allocated Colab resources of the GPU time (***smiles in pain***) while it got fixed at the end, it was disturbing not getting the same results nor being able to run the code properly). I learned that running the code with a GPU does not yield the same results 
